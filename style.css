@@ -1,0 +1,13 @@
+header{
+    background-color: rgb(13, 128, 191);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 0 auto;
+}
+main{
+    background-color: black;
+    color: white;
+}
+body{
+    background-color: black;
+}
