@@ -8,3 +8,8 @@ main{
     background-color: black;
     color: white;
 }
+hr{
+    height: 4px;
+    background-color: white;
+    border: none;
+}
