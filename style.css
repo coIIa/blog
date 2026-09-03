@@ -14,5 +14,14 @@ hr{
     border: none;
 }
 #cyber{
-    color: aqua;
+    color: rgb(255, 255, 255);
+    text-align: center;
 }
+#titulo{
+    text-align: center;
+}
+.imagem-centralizada {
+    display: block;
+    margin: 0 auto;
+}
+
